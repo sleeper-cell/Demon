@@ -15,4 +15,6 @@ python demoneye.py
 
 ./demoneye.py https://www.example.com
 
+# main author Goldeneye.
+
 # Most Powerfull Tools. Use in High Configer Computer
