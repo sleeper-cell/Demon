@@ -9,7 +9,7 @@ apt install python3-pip
 
 git clone https://github.com/sleeper-cell/demon.git
 
-cd demon
+cd Demon
 
 python demoneye.py
 
