@@ -13,6 +13,6 @@ cd demon
 
 python demoneye.py
 
-"./demoneye.py https://www.example.com"
+./demoneye.py https://www.example.com
 
 # Most Powerfull Tools. Use in High Configer Computer
