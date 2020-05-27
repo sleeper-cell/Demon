@@ -1,7 +1,7 @@
 # Demon-Eye
-# uses:
-# apt install git
-# apt install python
+ uses:
+apt install git
+apt install python
 # apt install python3-pip
 # git clone https://github.com/sleeper-cell/demon.git
 # cd demon
